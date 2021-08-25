@@ -21,8 +21,18 @@ public class ASCIIArt {
         System.out.println("      _\\/_     \\  (");
         System.out.println("     /    \\  ___\\_|_");
         System.out.println("____/    \\_\\/       \\");
-        System.out.println("      (\\___/\\\\       \\");
+        System.out.println("      (\\___/\\\\       \\");    
         System.out.println("       |     \\_______/");
+        System.out.println("       |     //      \\");
+        System.out.println("   /   |     \\_______/");
+        System.out.println("___\\   |   _//     \\");
+        System.out.println("    \\__|  //\\______/");
+        System.out.println("       |__\\______/  ____");
+        
+        System.out.println("    _____|____|____|____|");
+        System.out.println("   /Trb       __________o\\");
+        System.out.println("  /          /            \\");
+        System.out.println("  \\_________/_____________/");
     }
     
 }
