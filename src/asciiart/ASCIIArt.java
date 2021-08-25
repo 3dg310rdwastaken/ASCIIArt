@@ -21,7 +21,7 @@ public class ASCIIArt {
         System.out.println("      _\\/_     \\  (");
         System.out.println("     /    \\  ___\\_|_");
         System.out.println("____/    \\_\\/       \\");
-        System.out.println("      (\\___/\\\\       \\");    
+        System.out.println("      (\\___/\\\\       \\");    //This code draws the hand and stick
         System.out.println("       |     \\_______/");
         System.out.println("       |     //      \\");
         System.out.println("   /   |     \\_______/");
@@ -30,7 +30,7 @@ public class ASCIIArt {
         System.out.println("       |__\\______/  ____");
         
         System.out.println("    _____|____|____|____|");
-        System.out.println("   /Trb       __________o\\");
+        System.out.println("   /Trb       __________o\\");              //This code draws the base
         System.out.println("  /          /            \\");
         System.out.println("  \\_________/_____________/");
     }
