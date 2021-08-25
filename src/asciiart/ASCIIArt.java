@@ -17,6 +17,12 @@ public class ASCIIArt {
     public static void main(String[] args) {
         System.out.println("           __________");
         System.out.println("      ____/,    _____)");
+        System.out.println("      \\  //    /   /");
+        System.out.println("      _\\/_     \\  (");
+        System.out.println("     /    \\  ___\\_|_");
+        System.out.println("____/    \\_\\/       \\");
+        System.out.println("      (\\___/\\\\       \\");
+        System.out.println("       |     \\_______/");
     }
     
 }
